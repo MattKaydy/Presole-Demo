@@ -36,7 +36,7 @@ As my former team continues on with the project, the app will eventually be re-d
 
 ## Usage Demo
 
-![VideoDemo](./PresoleAppDemoC.mp4)
+[Click here to watch the video demo of the prototype](https://drive.google.com/file/d/1JXyidDpzm3AOAdxyAc93O7lSFU3X2dcX/view?usp=sharing)
 
 ## Awards
 
