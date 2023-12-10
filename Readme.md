@@ -4,7 +4,7 @@ A pressure sensor embedded into a shoe insole… and much more!
 
 This project is an on-going project that my former team members are contiuning.
 
-The design details, intellectual property and software code are owned by my team and it is not allowed to share specific details nor source code in this repo. 
+The design details, intellectual property and software code are owned by my team and I am not allowed to share specific details nor source code in this repo. 
 
 Demonstration only - no source code
 
